@@ -12,6 +12,7 @@ smaller project.
 | Name | GitHub | Role |
 | --- | --- | --- |
 | Rex Hall | [@rexmhall09](https://github.com/rexmhall09) | Owner |
+| Alexander Weinstock | [@Osiriss664](https://github.com/Osiriss664) | Junior maintainer |
 
 ## Roles
 
