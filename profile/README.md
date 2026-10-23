@@ -32,6 +32,7 @@ brew install --cask tuff-app/tap/tuff
 | [sandbox](https://github.com/tuff-app/sandbox) | The Linux VM that runs web and file search in isolation |
 | [homebrew-tap](https://github.com/tuff-app/homebrew-tap) | The Homebrew cask |
 | [tuff-app.github.io](https://github.com/tuff-app/tuff-app.github.io) | The website and benchmark leaderboard |
+| [.github](https://github.com/tuff-app/.github) | This README |
 
 They're one project and share one
 [contributing guide](https://github.com/tuff-app/.github/blob/main/CONTRIBUTING.md),
