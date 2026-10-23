@@ -43,7 +43,9 @@ rules aren't optional:
 - **Read 100% of the code yourself.** Every line in your pull request, before
   you open it. Remove anything you can't explain.
 - **Write every comment yourself, without AI.** That means comments on issues,
-  pull requests, reviews and discussions, and comments in the code.
+  pull requests, reviews and discussions, and comments in the code. Using AI
+  to fix spelling and grammar is fine, as long as it's minimal and keeps your
+  own wording. It can't rewrite or add to what you said.
 
 And stand behind your PR:
 

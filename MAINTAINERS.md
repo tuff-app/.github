@@ -110,7 +110,8 @@ The [same rules](CONTRIBUTING.md#ai-tools) apply to maintainers, and
 maintainers are held to them more strictly. Coding with AI is fine, but you
 read 100% of the code yourself, including in pull requests you review. Every
 comment you write, including reviews, issue and discussion replies and
-comments in the code, is written by you without AI.
+comments in the code, is written by you without AI. Minimal spelling and
+grammar fixes that keep your wording are fine.
 
 ## Ask when you're unsure
 
