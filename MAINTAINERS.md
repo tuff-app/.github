@@ -105,9 +105,11 @@ verification call with me.
 
 ## AI tools
 
-The [same rules](CONTRIBUTING.md#ai-tools) apply to reviews. Using AI is
-fine, but the review is yours. If an agent helped, say so, and say what you
-checked yourself.
+The [same rules](CONTRIBUTING.md#ai-tools) apply to maintainers, and
+maintainers are held to them more strictly. Coding with AI is fine, but you
+read 100% of the code yourself, including in pull requests you review. Every
+comment you write, including reviews, issue and discussion replies and
+comments in the code, is written by you without AI.
 
 ## Ask when you're unsure
 

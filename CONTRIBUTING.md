@@ -37,11 +37,17 @@ Significant contributions are mentioned in the release notes.
 
 ## AI tools
 
-Use whatever you like: Claude, Codex, or nothing. I use AI on TUFF too. Just
-stand behind your PR:
+Coding with AI is fine: Claude, Codex, or nothing. I use AI on TUFF too. Two
+rules aren't optional:
 
-- Read the code you're changing, and check your agent's explanation against it.
-- Review every line yourself. Remove anything you can't explain.
+- **Read 100% of the code yourself.** Every line in your pull request, before
+  you open it. Remove anything you can't explain.
+- **Write every comment yourself, without AI.** That means comments on issues,
+  pull requests, reviews and discussions, and comments in the code.
+
+And stand behind your PR:
+
+- Check your agent's explanation against the code it changed.
 - Report real test output. "The agent said it passed" isn't evidence, and
   saying you couldn't test something is completely fine.
 - Answer review questions yourself.
